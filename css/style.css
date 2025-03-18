@@ -9,3 +9,11 @@
 .verde-limao{
   color: green;
 }
+
+.botao-lilas{
+  background-color: rgb(185, 141, 255);
+  &:hover{
+    background-color: black;
+color: white;
+  }
+}
